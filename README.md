@@ -4,7 +4,7 @@
 
 This Decomp has not been tested, but I believe it works
 
-GameMaker Version Used: idk man
+GameMaker Version Used: 2023.8.2.108
 
 ## Current Progress
 

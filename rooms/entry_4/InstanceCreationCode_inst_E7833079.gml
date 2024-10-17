@@ -1,0 +1,1 @@
+targetRoom = entry_3;

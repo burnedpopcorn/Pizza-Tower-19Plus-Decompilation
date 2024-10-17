@@ -1,0 +1,1 @@
+hurthud = 0

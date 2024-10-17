@@ -1,0 +1,9 @@
+image_speed = 0.35
+spawnedobject = -4
+content = obj_cheeseslime
+cooldown = 20
+depth = 1
+hsp = 0
+vsp = 0
+grav = 0.5
+grounded = 0

@@ -1,0 +1,1 @@
+barrelspawn = 1

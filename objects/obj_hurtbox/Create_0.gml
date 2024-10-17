@@ -1,0 +1,1 @@
+hurttype = 0

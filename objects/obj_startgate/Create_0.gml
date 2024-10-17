@@ -1,0 +1,11 @@
+level = ""
+depth = 50
+targetDoor = "A"
+checked = 0
+showtext = 0
+targetRoom = virtualinsanity
+uparrowid = create_uparrow()
+gatesurf = -1
+unlocked = true
+unlockedanim = 1
+unlockingsound = event_instance("event:/sfx/misc/gateunlockloop")

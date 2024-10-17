@@ -4,6 +4,11 @@
 
 This Decomp works, but still needs work internally (organization)
 
+> [!IMPORTANT]
+> The FMOD API for Windows (or whatever platform you're on) is required for successful compilation
+>
+> Unless you remove the pre and post build .bat files, but you won't have sound 
+
 GameMaker Version Used: 2023.11, but I personally use 2024.2
 
 ## Current Progress

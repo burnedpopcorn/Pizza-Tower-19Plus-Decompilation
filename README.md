@@ -1,4 +1,4 @@
-# Pizza Tower '19 Plus: SAGE 2024 Decompilation
+# Pizza Tower '19 Plus: SAGE 2024 Demo Decompilation
 
  A Decompilation of Pizza Tower 19 Plus (SAGE 2024)
 
@@ -9,11 +9,17 @@ This Decomp works, but still needs work internally (organization)
 >
 > Unless you remove the pre and post build .bat files, but you won't have sound 
 
-GameMaker Version Used: 2023.11, but I personally use 2024.2
+GameMaker Version Used: 2024.2
 
 ## Current Progress
 
-fuck man, i already told you idk
+Everything works fine, but
+
+- Organization is needed
+- States aren't Enums
+- Arrow Keys Icon fails to display
+
+and that's kinda it
 
 ### Thanks to
 - QuantumV, for his decompiler

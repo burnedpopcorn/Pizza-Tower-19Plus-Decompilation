@@ -1,5 +1,5 @@
 {
-  "resourceType": "GMExtensionConfigSet",
+  "$GMExtensionConfigSet": "GMExtensionConfigSet",
   "configurables": {
     "c7909757-05f8-4365-b44d-00795f9489f9": null,
     "69e2040b-c54f-4d66-87d8-04c2caa2f267": {
@@ -40,6 +40,5 @@
     "670daf0c-b9c8-40b6-a8a8-12580e85dd69": null,
     "4f8c9c18-886c-4c01-8cd2-f469c38afb87": null,
     "3b29df9d-1f44-44b6-8dcc-f7d372077750": null
-  },
-  "resourceVersion": "1.0"
+  }
 }

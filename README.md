@@ -1,4 +1,4 @@
-# Pizza Tower '19 Plus: SAGE 2024 Demo
+# Pizza Tower '19 Plus: SAGE 2024 Decompilation
 
  A Decompilation of Pizza Tower 19 Plus (SAGE 2024)
 
